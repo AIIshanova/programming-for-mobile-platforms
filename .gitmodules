@@ -7,3 +7,6 @@
 [submodule "Android_Get_time_and_data_aka_lab1_5"]
 	path = Android_Get_time_and_data_aka_lab1_5
 	url = https://github.com/AIIshanova/Android_Get_time_and_data_aka_lab1_5
+[submodule "Android_linked_activities_aka_lab1_6"]
+	path = Android_linked_activities_aka_lab1_6
+	url = https://github.com/AIIshanova/Android_linked_activities_aka_lab1_6
