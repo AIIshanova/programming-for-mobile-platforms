@@ -4,3 +4,6 @@
 [submodule "Android_kotlin_demostration_aka_lab1_4"]
 	path = Android_kotlin_demostration_aka_lab1_4
 	url = https://github.com/AIIshanova/Android_kotlin_demostration_aka_lab1_4
+[submodule "Android_Get_time_and_data_aka_lab1_5"]
+	path = Android_Get_time_and_data_aka_lab1_5
+	url = https://github.com/AIIshanova/Android_Get_time_and_data_aka_lab1_5
