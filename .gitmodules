@@ -1,3 +1,6 @@
 [submodule "Android_java_demonstration_aka_lab1_3"]
 	path = Android_java_demonstration_aka_lab1_3
 	url = https://github.com/AIIshanova/Android_java_demonstration_aka_lab1_3
+[submodule "Android_kotlin_demostration_aka_lab1_4"]
+	path = Android_kotlin_demostration_aka_lab1_4
+	url = https://github.com/AIIshanova/Android_kotlin_demostration_aka_lab1_4
