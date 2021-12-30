@@ -10,3 +10,6 @@
 [submodule "Android_linked_activities_aka_lab1_6"]
 	path = Android_linked_activities_aka_lab1_6
 	url = https://github.com/AIIshanova/Android_linked_activities_aka_lab1_6
+[submodule "Android_fragment_use_aka_lab1p7"]
+	path = Android_fragment_use_aka_lab1p7
+	url = https://github.com/AIIshanova/Android_fragment_use_aka_lab1p7
